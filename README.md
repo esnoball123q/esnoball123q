@@ -10,7 +10,7 @@
 
 <h3 align="center">-🌱 I’m currently learning he python language</h3>
 
-<h3 align="center">-📫 How to contact me: Donpepe169#0968 <a href="https://discord.com/users/1017367377735843921" rel="nofollow">(Discord)</a></h3>
+<h3 align="center">-📫 How to contact me: adripp1 <a href="https://discord.com/users/1017367377735843921" rel="nofollow">(Discord)</a></h3>
 
 
 <h3 align="center">Languages and Tools:</h3>
