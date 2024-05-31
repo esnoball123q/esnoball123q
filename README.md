@@ -2,11 +2,14 @@
 <img src="https://i.pinimg.com/736x/e0/9f/d6/e09fd65897844dcc204b7a151b0c5301.jpg" width="250" />
  </div>
 
-<h1 align="center">Hi 👋, I'm Snaw16</h1>
+<h1 align="center">Hola 👋, Soy Snaw16</h1>
 
-<h3 align="center">I am passionate about learning the python language and I will share my projects on my social media</h3>
-
+<h3 align="center">Me apasiona aprender el lenguaje python y compartiré mis proyectos en mis redes sociales.</h3>
+<h3 align="center">Me gusta diseñar y crear paginas web y aprender nuevas tecnologias.<h/h3>
+ <h3 align="center">🎓 Actualmente estoy en la escuela y quisiera estudiar ing de sistemas, ing de software o ciencias de la computación
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=snaw16&label=Profile%20views&color=0e75b6&style=flat" alt="snaw16" /> </p>
+<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
+
 
 <h3 align="center">-🌱 I’m currently learning he python language</h3>
 
