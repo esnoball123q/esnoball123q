@@ -9,9 +9,9 @@
  <h3 align="center">🎓 Actualmente estoy en la escuela y quisiera estudiar Ingeniería de Sistemas, Ingeniería de Software o Ciencias de la Computación.
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=snaw16&label=Profile%20views&color=0e75b6&style=flat" alt="snaw16" /> </p>
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
+<p></p>
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
-<P></P>
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
