@@ -20,7 +20,7 @@
 
 
 
-<h3 align="center">-📫 me podrias contactar por mi discord el cual es: adripp1 <a href="https://discord.com/users/1017367377735843921" rel="nofollow">(Discord)</a></h3>
+<h3 align="center">-📫 Me podrias contactar por mi discord el cual es: adripp1 <a href="https://discord.com/users/1017367377735843921" rel="nofollow">(Discord)</a></h3>
 
 
 <h3 align="center">Languages and Tools:</h3>
