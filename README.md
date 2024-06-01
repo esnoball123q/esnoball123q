@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://i.pinimg.com/originals/c6/33/c2/c633c20ede82f0e0ced7d570dbe3a1f3.gif" width="500" higt="400" />
+<img src="https://i.pinimg.com/originals/c6/33/c2/c633c20ede82f0e0ced7d570dbe3a1f3.gif" width="500" />
  </div>
 
 <h1 align="center">Hola 👋, Soy Snaw16</h1>
