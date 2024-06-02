@@ -4,7 +4,7 @@
 
 <h1 align="center">Hola 👋, Soy Snaw16</h1>
 
-<h3 align="center">Soy un joven de 15 donde me apasiona aprender los lenguajes Python y JavaScript, y estare compartiendo mis proyectos!</h3>
+<h3 align="center">Soy un joven de 15 años donde me apasiona aprender los lenguajes Python y JavaScript, y estare compartiendo mis proyectos!</h3>
 <h3 align="center">Me gusta diseñar y crear páginas web, y aprender nuevas tecnologías.<h/h3>
  <h3 align="center">🎓 Actualmente estoy en la escuela y quisiera estudiar Ingeniería de Sistemas, Ingeniería de Software o Ciencias de la Computación.
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=snaw16&label=Profile%20views&color=0e75b6&style=flat" alt="snaw16" /> </p>
