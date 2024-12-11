@@ -2,7 +2,7 @@
 <img src="https://i.pinimg.com/originals/c6/33/c2/c633c20ede82f0e0ced7d570dbe3a1f3.gif" width="500" />
  </div>
 
-<h1 align="center">Hola 👋, Soy Snaw16</h1>
+<h1 align="center">Hola 👋, Soy ssdr1p</h1>
 
 <h3 align="center">Soy un joven de 16 años donde me apasiona aprender los lenguajes Python y JavaScript, y estare compartiendo mis proyectos!</h3>
 <h3 align="center">Me gusta diseñar y crear páginas web, y aprender nuevas tecnologías.<h/h3>
