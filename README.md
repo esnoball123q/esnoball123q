@@ -1,32 +1,59 @@
+````html
 <div align="center">
 
 <img src="https://i.pinimg.com/originals/c6/33/c2/c633c20ede82f0e0ced7d570dbe3a1f3.gif" width="500"/>
 
-# Hola 👋 Soy ssdr1p
+# ssdr1p
 
-### 💻 Apasionado por Python, JavaScript y el desarrollo web
-### 🌌 Me gusta crear proyectos con estilos únicos y aprender nuevas tecnologías
+### “Sometimes I build things just to understand how they work.”
 
-<img src="https://komarev.com/ghpvc/?username=snaw16&label=Visitas&color=0e75b6&style=flat" />
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=snaw16&label=views&color=0e75b6&style=flat"/>
 
 </div>
 
 ---
 
-## 🚀 Sobre mí
+```txt
+📍 Peru
+🌙 Late night coding
+💭 Nostalgia, oceans and low-level systems
+````
 
-- 🎓 Tengo 16 años
-- 📚 Actualmente estoy en la escuela
-- 🧠 Quiero estudiar:
-  - Ingeniería de Sistemas
-  - Ingeniería de Software
-  - Ciencias de la Computación
-- 🌐 Me gusta diseñar páginas web y experimentar con ideas creativas
-- ⚡ Siempre intento aprender algo nuevo
+I'm Adrian.
+
+Most of the things I create come from
+music,
+memories,
+curiosity,
+or sleepless nights.
+
+I enjoy building projects with atmosphere —
+retro visuals,
+dark environments,
+interactive experiences,
+and experimental ideas.
+
+Currently learning and experimenting with:
+
+* Python
+* JavaScript
+* Web Development
+* Cybersecurity
+* Malware Analysis
+* Reverse Engineering
+* Networking
+* Windows Internals
+
+Sometimes I make websites.
+Sometimes I research how software behaves behind the scenes.
+
+I like understanding systems deeply.
 
 ---
 
-## 🛠️ Tecnologías que uso
+## 🛠 Technologies
 
 <div align="center">
 
@@ -40,35 +67,25 @@
 
 ---
 
-## 📫 Contacto
-
 <div align="center">
 
-💬 Discord: **adripp01**
-
-<a href="https://discord.com/users/1017367377735843921">
-Discord Profile
-</a>
+<img src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" width="320"/>
 
 </div>
 
 ---
 
-## 🌙 Night Coding
+## 📫 Contact
 
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" width="300"/>
-
-</div>
+```txt
+discord: adripp01
+```
 
 ---
 
-## 🐍 Contributions Snake
-
 <div align="center">
 
-<img src="https://github.com/dekrypted/dekrypted/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only">
-<img src="https://github.com/dekrypted/dekrypted/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only">
+<img src="https://github.com/dekrypted/dekrypted/blob/output/github-contribution-grid-snake-dark.svg">
 
 </div>
+```
